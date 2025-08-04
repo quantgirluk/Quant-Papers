@@ -1,2 +1,2 @@
-# quant-papers
-Must read Quant papers
+# Quant-Papers
+A collection of must-read Quant papers
