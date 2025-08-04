@@ -1,5 +1,5 @@
 # Quant-Papers
-A collection of must-read Quant papers
+A curated list of must-read Quant papers
 
 ## Foundational and Asset Pricing
 
