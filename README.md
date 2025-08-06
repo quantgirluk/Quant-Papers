@@ -1,6 +1,10 @@
 # Quant-Papers
 A curated list of must-read Quant papers
 
+## Commodities
+
+- Gabillion, J. (1991). [The Term Structure of Oil Futures Prices.](Gabillion, J. (1991). The Term Structure of Oil Futures Prices. Working Paper, No. M17, Oxford Institute for Energy Studies.) Working Paper, No. M17, Oxford Institute for Energy Studies.
+
 ## Foundational and Asset Pricing
 
 - Bachelier, L. (1900) – [Théorie de la Spéculation](https://www.investmenttheory.org/uploads/3/4/8/2/34825752/emhbachelier.pdf)
@@ -15,3 +19,9 @@ A curated list of must-read Quant papers
 - Fama, E.F., 1970. [Efficient capital markets: A review of theory and empirical work.](https://www.jstor.org/stable/2325486) Journal of Finance, 25(2), pp.383–417.
 
 - Fama, E.F. and French, K.R., 1993. [Common risk factors in the returns on stocks and bonds.](https://econpapers.repec.org/article/eeejfinec/v_3a33_3ay_3a1993_3ai_3a1_3ap_3a3-56.htm) Journal of Financial Economics, 33(1), pp.3–56.
+
+
+## Option Pricing and Derivatives
+
+- Black, F. and Scholes, M. (1973) [The Pricing of Options and Corporate Liabilities.](https://www.jstor.org/stable/1831029) Journal of Political Economy, 81, 637-654.
+  - Available [Here](https://www.worldscientific.com/doi/epdf/10.1142/9789814759588_0001)
