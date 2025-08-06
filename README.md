@@ -15,7 +15,10 @@ A curated list of must-read Quant papers
 
 
 - Ramos Ribeiro, Diana and Hodges, Stewart D. (January 13, 2004). A Two-Factor Model for Commodity Prices and Futures Valuation. Available at SSRN: https://ssrn.com/abstract=498802 or http://dx.doi.org/10.2139/ssrn.498802
-  - Available [Here](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/research/wpaperseries/2004/04-205.pdf) 
+  - Available [Here](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/research/wpaperseries/2004/04-205.pdf)
+ 
+- Carmona, René; Coulon, Michael (2013). [A survey of commodity markets and structural models for electricity prices.](https://link.springer.com/chapter/10.1007/978-1-4614-7248-3_2) University of Sussex. Chapter. https://hdl.handle.net/10779/uos.23397011.v1
+  - Available [Here](https://carmona.princeton.edu/sites/g/files/toruqf5466/files/documents/ElecSurvey7.pdf) 
 
 
 ## Foundational and Asset Pricing
