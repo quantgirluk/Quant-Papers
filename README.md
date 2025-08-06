@@ -3,7 +3,11 @@ A curated list of must-read Quant papers
 
 ## Commodities
 
-- Gabillion, J. (1991). [The Term Structure of Oil Futures Prices.](Gabillion, J. (1991). The Term Structure of Oil Futures Prices. Working Paper, No. M17, Oxford Institute for Energy Studies.) Working Paper, No. M17, Oxford Institute for Energy Studies.
+- Gabillion, J. (1991). [The Term Structure of Oil Futures Prices.](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/WPM17-TheTermStructureofOilFuturesPrices-JGabillon-1991.pdf) Working Paper, No. M17, Oxford Institute for Energy Studies.
+  
+- Schwartz, Eduardo, and James E. Smith. (2000). Short-Term Variations and Long-Term Dynamics in Commodity Prices. Management Science, vol. 46, no. 7, 2000, pp. 893–911. JSTOR, http://www.jstor.org/stable/2661607.
+  - Available [Here](https://www.anderson.ucla.edu/faculty/eduardo.schwartz/articles/72.pdf) 
+
 
 ## Foundational and Asset Pricing
 
