@@ -3,10 +3,19 @@ A curated list of must-read Quant papers
 
 ## Commodities
 
+
+
 - Gabillion, J. (1991). [The Term Structure of Oil Futures Prices.](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/WPM17-TheTermStructureofOilFuturesPrices-JGabillon-1991.pdf) Working Paper, No. M17, Oxford Institute for Energy Studies.
+
+- Schwartz, E.S., (1997). [The stochastic behavior of commodity prices: Implications for valuation and hedging.](https://roycheng.cn/files/papers/paper_schwartz_1997.pdf) The Journal of finance, 52(3), pp.923-973.
+
   
 - Schwartz, Eduardo, and James E. Smith. (2000). Short-Term Variations and Long-Term Dynamics in Commodity Prices. Management Science, vol. 46, no. 7, 2000, pp. 893–911. JSTOR, http://www.jstor.org/stable/2661607.
-  - Available [Here](https://www.anderson.ucla.edu/faculty/eduardo.schwartz/articles/72.pdf) 
+  - Available [Here](https://www.anderson.ucla.edu/faculty/eduardo.schwartz/articles/72.pdf)
+
+
+- Ramos Ribeiro, Diana and Hodges, Stewart D. (January 13, 2004). A Two-Factor Model for Commodity Prices and Futures Valuation. Available at SSRN: https://ssrn.com/abstract=498802 or http://dx.doi.org/10.2139/ssrn.498802
+  - Available [Here](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/research/wpaperseries/2004/04-205.pdf) 
 
 
 ## Foundational and Asset Pricing
