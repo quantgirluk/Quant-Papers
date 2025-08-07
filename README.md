@@ -41,3 +41,6 @@ A curated list of must-read Quant papers
  
 - Dupire B. (1994) [Pricing with a Smile](https://www.semanticscholar.org/paper/Pricing-with-a-Smile-Dupire/03798655e555ca39ed845e4399f745b3d0d11681), Risk, Vol. 7, No. 1, 1994, pp. 18-20.
   - [Here](https://www.scribd.com/document/233977103/pricing-with-smile) 
+
+- Carr, P. and Madan, D.B. (1999) [Option Valuation Using Fast Fourier Transform.](https://www.risk.net/journal-of-computational-finance/2160495/option-valuation-using-the-fast-fourier-transform) Journal of Computational Finance, 2, 61-73. https://doi.org/10.21314/JCF.1999.043
+  - [Here](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/CarrMadan.pdf) 
