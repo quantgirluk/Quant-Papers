@@ -43,4 +43,20 @@ A curated list of must-read Quant papers
   - [Here](https://www.scribd.com/document/233977103/pricing-with-smile) 
 
 - Carr, P. and Madan, D.B. (1999) [Option Valuation Using Fast Fourier Transform.](https://www.risk.net/journal-of-computational-finance/2160495/option-valuation-using-the-fast-fourier-transform) Journal of Computational Finance, 2, 61-73. https://doi.org/10.21314/JCF.1999.043
-  - [Here](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/CarrMadan.pdf) 
+  - [Here](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/CarrMadan.pdf)
+ 
+## Volatility
+
+- Dupire B. (1994) [Pricing with a Smile](https://www.semanticscholar.org/paper/Pricing-with-a-Smile-Dupire/03798655e555ca39ed845e4399f745b3d0d11681), Risk, Vol. 7, No. 1, 1994, pp. 18-20.
+
+- Bergomi, Lorenzo, Smile Dynamics I (April 1, 2004).
+  - Available at SSRN: https://ssrn.com/abstract=1493294 or http://dx.doi.org/10.2139/ssrn.1493294
+    
+- Bergomi, Lorenzo, Smile Dynamics II (March 1, 2005).
+  - Available at SSRN: https://ssrn.com/abstract=1493302 or http://dx.doi.org/10.2139/ssrn.1493302
+    
+- Bergomi, Lorenzo, Smile Dynamics III (March 1, 2008).
+  - Available at SSRN: https://ssrn.com/abstract=1493308 or http://dx.doi.org/10.2139/ssrn.1493308
+    
+- Bergomi, Lorenzo, Smile Dynamics IV (June 1, 2009).
+  - Available at SSRN: https://ssrn.com/abstract=1520443 or http://dx.doi.org/10.2139/ssrn.1520443
