@@ -37,7 +37,7 @@ A curated list of must-read Quant papers
 ## Machine Learning in Finance
 
 - Buehler, Hans and Gonon, Lukas and Teichmann, Josef and Wood, Ben, Deep Hedging (February 8, 2018).
-  - Available at [SSRN](https://ssrn.com/abstract=3120710 or http://dx.doi.org/10.2139/ssrn.3120710)
+  - Available at [SSRN](https://ssrn.com/abstract=3120710)
 
 
 ## Option Pricing and Derivatives
