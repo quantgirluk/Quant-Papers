@@ -34,6 +34,12 @@ A curated list of must-read Quant papers
 - Fama, E.F. and French, K.R., 1993. [Common risk factors in the returns on stocks and bonds.](https://econpapers.repec.org/article/eeejfinec/v_3a33_3ay_3a1993_3ai_3a1_3ap_3a3-56.htm) Journal of Financial Economics, 33(1), pp.3–56.
 
 
+## Machine Learning in Finance
+
+- Buehler, Hans and Gonon, Lukas and Teichmann, Josef and Wood, Ben, Deep Hedging (February 8, 2018).
+  - Available at [SSRN](https://ssrn.com/abstract=3120710 or http://dx.doi.org/10.2139/ssrn.3120710)
+
+
 ## Option Pricing and Derivatives
 
 - Black, F. and Scholes, M. (1973) [The Pricing of Options and Corporate Liabilities.](https://www.jstor.org/stable/1831029) Journal of Political Economy, 81, 637-654.
