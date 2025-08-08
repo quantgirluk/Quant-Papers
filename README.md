@@ -38,6 +38,9 @@ A curated list of must-read Quant papers
 
 - Buehler, Hans and Gonon, Lukas and Teichmann, Josef and Wood, Ben, Deep Hedging (February 8, 2018).
   - Available at [SSRN](https://ssrn.com/abstract=3120710)
+ 
+- Horvath, B., Muguruza, A., & Tomas, M. (2019). Deep learning volatility: a deep neural network perspective on pricing and calibration in (rough) volatility models. Quantitative Finance, 21, 11 - 27.
+ - Available at [SSRN](https://ssrn.com/abstract=3322085) or http://dx.doi.org/10.2139/ssrn.3322085-   
 
 
 ## Option Pricing and Derivatives
