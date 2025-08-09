@@ -58,6 +58,10 @@ A curated list of must-read Quant papers
 
 - Dupire B. (1994) [Pricing with a Smile](https://www.semanticscholar.org/paper/Pricing-with-a-Smile-Dupire/03798655e555ca39ed845e4399f745b3d0d11681), Risk, Vol. 7, No. 1, 1994, pp. 18-20.
 
+- Heston, Steven L. (1993) [A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options.](http://www.jstor.org/stable/2962057.) The Review of Financial Studies 6, no. 2 : 327–43.
+  - [Here](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/Heston.pdf) 
+
+
 - Bergomi, Lorenzo, Smile Dynamics I (April 1, 2004).
   - Available at SSRN: https://ssrn.com/abstract=1493294 or http://dx.doi.org/10.2139/ssrn.1493294
     
