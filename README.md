@@ -53,7 +53,12 @@ A curated list of must-read Quant papers
 
 - Carr, P. and Madan, D.B. (1999) [Option Valuation Using Fast Fourier Transform.](https://www.risk.net/journal-of-computational-finance/2160495/option-valuation-using-the-fast-fourier-transform) Journal of Computational Finance, 2, 61-73. https://doi.org/10.21314/JCF.1999.043
   - [Here](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/CarrMadan.pdf)
- 
+
+## Interest Rates
+
+- Cox, J. C., Ingersoll, J. E., & Ross, S. A. (1985). [A Theory of the Term Structure of Interest Rates.](https://doi.org/10.2307/1911242) Econometrica, 53(2), 385–407.
+  - [Here](https://pages.stern.nyu.edu/~dbackus/BCZ/discrete_time/CIR_Econometrica_85.pdf) 
+
 ## Volatility
 
 - Dupire B. (1994) [Pricing with a Smile](https://www.semanticscholar.org/paper/Pricing-with-a-Smile-Dupire/03798655e555ca39ed845e4399f745b3d0d11681), Risk, Vol. 7, No. 1, 1994, pp. 18-20.
