@@ -22,7 +22,7 @@ A curated list of must-read Quant papers
 ## Credit
 
 - Merton, R. C. (1974). On the Pricing of Corporate Debt: The Risk Structure of Interest Rates. The Journal of Finance, 29(2), 449–470. https://doi.org/10.2307/2978814
-
+  - Available online via Wiley [Here](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1974.tb03058.x)
 
 ## Foundational and Asset Pricing
 
