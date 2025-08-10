@@ -71,6 +71,8 @@ A curated list of must-read Quant papers
 - Carr, P. and Madan, D.B. (1999) [Option Valuation Using Fast Fourier Transform.](https://www.risk.net/journal-of-computational-finance/2160495/option-valuation-using-the-fast-fourier-transform) Journal of Computational Finance, 2, 61-73. https://doi.org/10.21314/JCF.1999.043
   - [Here](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/CarrMadan.pdf)
 
+- Longstaff, F. and Schwartz, E. (2001) Valuing American Options by Simulation: A Simple Least-Squares Approach. The Review of Financial Studies, 14, 113-147. https://doi.org/10.1093/rfs/14.1.113
+  - Available online [Here](https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf)
 
 ## Volatility
 
