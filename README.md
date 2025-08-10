@@ -61,8 +61,11 @@ A curated list of must-read Quant papers
 
 ## Interest Rates
 
+- Vasicek, O. (1977) [An Equilibrium Characterization of the Term Structure.](http://dx.doi.org/10.1016/0304-405X(77)90016-2) Journal of Financial Economics, 5, 177-188.
+  - Available online [Here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=20770fed49a02e9b5a3ed44160739850ba94f777)
+  
 - Cox, J. C., Ingersoll, J. E., & Ross, S. A. (1985). [A Theory of the Term Structure of Interest Rates.](https://doi.org/10.2307/1911242) Econometrica, 53(2), 385–407.
-  - [Here](https://pages.stern.nyu.edu/~dbackus/BCZ/discrete_time/CIR_Econometrica_85.pdf)
+  - Available online [Here](https://pages.stern.nyu.edu/~dbackus/BCZ/discrete_time/CIR_Econometrica_85.pdf)
 
 - Heath, D., Jarrow, R., & Morton, A. (1990). [Bond Pricing and the Term Structure of Interest Rates: A Discrete Time Approximation.](https://doi.org/10.2307/2331009) The Journal of Financial and Quantitative Analysis, 25(4), 419–440. 
   - Available via [Research Gate](https://www.researchgate.net/publication/227356293_Bond_Pricing_and_the_Term_Structure_of_Interest_Rates_A_Discrete_Time_Approximation?__cf_chl_tk=ygY5gWBn4RZTNIuWMXI6jCEUje5Dyn9x1yXqOkbR3W0-1754853005-1.0.1.1-kKzNccgfQq4nP_ND67HF.auZUZzjjcHcByS.uDhRuns)
