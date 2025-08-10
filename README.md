@@ -39,6 +39,18 @@ A curated list of must-read Quant papers
 - Fama, E.F. and French, K.R., 1993. [Common risk factors in the returns on stocks and bonds.](https://econpapers.repec.org/article/eeejfinec/v_3a33_3ay_3a1993_3ai_3a1_3ap_3a3-56.htm) Journal of Financial Economics, 33(1), pp.3–56.
 
 
+## Interest Rates
+
+- Vasicek, O. (1977) [An Equilibrium Characterization of the Term Structure.](http://dx.doi.org/10.1016/0304-405X(77)90016-2) Journal of Financial Economics, 5, 177-188.
+  - Available online [Here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=20770fed49a02e9b5a3ed44160739850ba94f777)
+  
+- Cox, J. C., Ingersoll, J. E., & Ross, S. A. (1985). [A Theory of the Term Structure of Interest Rates.](https://doi.org/10.2307/1911242) Econometrica, 53(2), 385–407.
+  - Available online [Here](https://pages.stern.nyu.edu/~dbackus/BCZ/discrete_time/CIR_Econometrica_85.pdf)
+
+- Heath, D., Jarrow, R., & Morton, A. (1990). [Bond Pricing and the Term Structure of Interest Rates: A Discrete Time Approximation.](https://doi.org/10.2307/2331009) The Journal of Financial and Quantitative Analysis, 25(4), 419–440. 
+  - Available via [Research Gate](https://www.researchgate.net/publication/227356293_Bond_Pricing_and_the_Term_Structure_of_Interest_Rates_A_Discrete_Time_Approximation?__cf_chl_tk=ygY5gWBn4RZTNIuWMXI6jCEUje5Dyn9x1yXqOkbR3W0-1754853005-1.0.1.1-kKzNccgfQq4nP_ND67HF.auZUZzjjcHcByS.uDhRuns)
+  
+
 ## Machine Learning in Finance
 
 - Buehler, Hans and Gonon, Lukas and Teichmann, Josef and Wood, Ben, Deep Hedging (February 8, 2018).
@@ -59,16 +71,6 @@ A curated list of must-read Quant papers
 - Carr, P. and Madan, D.B. (1999) [Option Valuation Using Fast Fourier Transform.](https://www.risk.net/journal-of-computational-finance/2160495/option-valuation-using-the-fast-fourier-transform) Journal of Computational Finance, 2, 61-73. https://doi.org/10.21314/JCF.1999.043
   - [Here](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/CarrMadan.pdf)
 
-## Interest Rates
-
-- Vasicek, O. (1977) [An Equilibrium Characterization of the Term Structure.](http://dx.doi.org/10.1016/0304-405X(77)90016-2) Journal of Financial Economics, 5, 177-188.
-  - Available online [Here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=20770fed49a02e9b5a3ed44160739850ba94f777)
-  
-- Cox, J. C., Ingersoll, J. E., & Ross, S. A. (1985). [A Theory of the Term Structure of Interest Rates.](https://doi.org/10.2307/1911242) Econometrica, 53(2), 385–407.
-  - Available online [Here](https://pages.stern.nyu.edu/~dbackus/BCZ/discrete_time/CIR_Econometrica_85.pdf)
-
-- Heath, D., Jarrow, R., & Morton, A. (1990). [Bond Pricing and the Term Structure of Interest Rates: A Discrete Time Approximation.](https://doi.org/10.2307/2331009) The Journal of Financial and Quantitative Analysis, 25(4), 419–440. 
-  - Available via [Research Gate](https://www.researchgate.net/publication/227356293_Bond_Pricing_and_the_Term_Structure_of_Interest_Rates_A_Discrete_Time_Approximation?__cf_chl_tk=ygY5gWBn4RZTNIuWMXI6jCEUje5Dyn9x1yXqOkbR3W0-1754853005-1.0.1.1-kKzNccgfQq4nP_ND67HF.auZUZzjjcHcByS.uDhRuns)
 
 ## Volatility
 
