@@ -19,6 +19,11 @@ A curated list of must-read Quant papers
   - Available [Here](https://carmona.princeton.edu/sites/g/files/toruqf5466/files/documents/ElecSurvey7.pdf) 
 
 
+## Credit
+
+- Merton, R. C. (1974). On the Pricing of Corporate Debt: The Risk Structure of Interest Rates. The Journal of Finance, 29(2), 449–470. https://doi.org/10.2307/2978814
+
+
 ## Foundational and Asset Pricing
 
 - Bachelier, L. (1900) – [Théorie de la Spéculation](https://www.investmenttheory.org/uploads/3/4/8/2/34825752/emhbachelier.pdf)
