@@ -37,6 +37,12 @@ http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
 
 - Duffie, D. (1999) [Credit Swap Valuation.](https://doi.org/10.2469/faj.v55.n1.2243) Financial Analysts Journal, 55, 73-87.
   - Available online [Here](https://www.darrellduffie.com/uploads/1/4/8/0/148007615/duffiecreditswapvaluation1999.pdf)
+ 
+- Hull, John & White, Alan. (2003). The Valuation of Credit Default Swap Options. Journal of Derivatives. 10. 10.3905/jod.2003.319200.
+  - Available online [Here](https://www-2.rotman.utoronto.ca/~hull/downloadablepublications/HullWhiteCDSoptionspaper.pdf)
+
+- Brigo, D., & Morini, M. (2005). [CDS Market Formulas and Models.](https://www.ma.imperial.ac.uk/~dbrigo/cdsmktfor.pdf) In Proceedings of the 18th Annual Warwick Options and Derivatives.
+
 
 ## Foundational and Asset Pricing
 
