@@ -30,7 +30,10 @@ http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
 - Duffee, G. R. (1999). Estimating the Price of Default Risk. The Review of Financial Studies, 12(1), 197–226. http://www.jstor.org/stable/2645991
 
 - Duffie, D., & Singleton, K. J. (1999). [Modeling Term Structures of Defaultable Bonds.](http://www.jstor.org/stable/2645962) The Review of Financial Studies, 12(4), 687–720. 
-  - Available online [Here](https://web.stanford.edu/~duffie/ds.pdf) 
+  - Available online [Here](https://web.stanford.edu/~duffie/ds.pdf)
+ 
+- Lando, D. (1998) [On Cox Processes and Credit Risky Securities.](http://dx.doi.org/10.1007/BF01531332) Review of Derivative Research, 2, 99-120.
+  - Available online [Here](https://globalriskguard.com/resources/fideriv/lando_cox.pdf)
 
 
 ## Foundational and Asset Pricing
