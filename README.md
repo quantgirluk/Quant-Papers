@@ -24,6 +24,15 @@ A curated list of must-read Quant papers
 - Merton, R. C. (1974). On the Pricing of Corporate Debt: The Risk Structure of Interest Rates. The Journal of Finance, 29(2), 449–470. https://doi.org/10.2307/2978814
   - Available online via Wiley [Here](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1974.tb03058.x)
 
+- Jarrow, R.A. and Turnbull, S.M. (1995) Pricing Derivatives on Financial Securities Subject to Credit Risk. The Journal of Finance, 1, 53-85.
+http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
+
+- Duffee, G. R. (1999). Estimating the Price of Default Risk. The Review of Financial Studies, 12(1), 197–226. http://www.jstor.org/stable/2645991
+
+- Duffie, D., & Singleton, K. J. (1999). [Modeling Term Structures of Defaultable Bonds.](http://www.jstor.org/stable/2645962) The Review of Financial Studies, 12(4), 687–720. 
+  - Available online [Here](https://web.stanford.edu/~duffie/ds.pdf) 
+
+
 ## Foundational and Asset Pricing
 
 - Bachelier, L. (1900) – [Théorie de la Spéculation](https://www.investmenttheory.org/uploads/3/4/8/2/34825752/emhbachelier.pdf)
