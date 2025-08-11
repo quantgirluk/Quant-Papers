@@ -35,6 +35,8 @@ http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
 - Lando, D. (1998) [On Cox Processes and Credit Risky Securities.](http://dx.doi.org/10.1007/BF01531332) Review of Derivative Research, 2, 99-120.
   - Available online [Here](https://globalriskguard.com/resources/fideriv/lando_cox.pdf)
 
+- Duffie, D. (1999) [Credit Swap Valuation.](https://doi.org/10.2469/faj.v55.n1.2243) Financial Analysts Journal, 55, 73-87.
+  - Available online [Here](https://www.darrellduffie.com/uploads/1/4/8/0/148007615/duffiecreditswapvaluation1999.pdf)
 
 ## Foundational and Asset Pricing
 
