@@ -5,6 +5,8 @@ A curated list of must-read Quant papers
 
 - Fama, E. F., & French, K. R. (1988). Business Cycles and the Behavior of Metals Prices. The Journal of Finance, 43(5), 1075–1093. https://doi.org/10.2307/2328207
 
+- Heath, D., Jarrow, R., & Morton, A. (1992). Bond Pricing and the Term Structure of Interest Rates: A New Methodology for Contingent Claims Valuation. Econometrica, 60(1), 77–105. https://doi.org/10.2307/2951677
+
 - Gabillion, J. (1991). [The Term Structure of Oil Futures Prices.](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/WPM17-TheTermStructureofOilFuturesPrices-JGabillon-1991.pdf) Working Paper, No. M17, Oxford Institute for Energy Studies.
 
 - Schwartz, E.S., (1997). [The stochastic behavior of commodity prices: Implications for valuation and hedging.](https://roycheng.cn/files/papers/paper_schwartz_1997.pdf) The Journal of finance, 52(3), pp.923-973.
