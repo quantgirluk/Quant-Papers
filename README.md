@@ -63,7 +63,9 @@ http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
 
 - Vasicek, O. (1977) [An Equilibrium Characterization of the Term Structure.](http://dx.doi.org/10.1016/0304-405X(77)90016-2) Journal of Financial Economics, 5, 177-188.
   - Available online [Here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=20770fed49a02e9b5a3ed44160739850ba94f777)
-  
+
+- Brennan, Michael J., and Eduardo S. Schwartz. [“An Equilibrium Model of Bond Pricing and a Test of Market Efficiency.”](http://efinance.org.cn/cn/FEshuo/170301%20%20%20%20%20An%20Equilibrium%20Model%20of%20Bond%20Pricing%20and%20a%20Test%20of%20Market%20Efficiency,%20pp.%20301-329.pdf) The Journal of Financial and Quantitative Analysis 17, no. 3 (1982): 301–29. https://doi.org/10.2307/2330832.
+
 - Cox, J. C., Ingersoll, J. E., & Ross, S. A. (1985). [A Theory of the Term Structure of Interest Rates.](https://doi.org/10.2307/1911242) Econometrica, 53(2), 385–407.
   - Available online [Here](https://pages.stern.nyu.edu/~dbackus/BCZ/discrete_time/CIR_Econometrica_85.pdf)
 
