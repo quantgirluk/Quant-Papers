@@ -3,6 +3,8 @@ A curated list of must-read Quant papers
 
 ## Commodities
 
+- Fama, E. F., & French, K. R. (1988). Business Cycles and the Behavior of Metals Prices. The Journal of Finance, 43(5), 1075–1093. https://doi.org/10.2307/2328207
+
 - Gabillion, J. (1991). [The Term Structure of Oil Futures Prices.](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/WPM17-TheTermStructureofOilFuturesPrices-JGabillon-1991.pdf) Working Paper, No. M17, Oxford Institute for Energy Studies.
 
 - Schwartz, E.S., (1997). [The stochastic behavior of commodity prices: Implications for valuation and hedging.](https://roycheng.cn/files/papers/paper_schwartz_1997.pdf) The Journal of finance, 52(3), pp.923-973.
@@ -16,7 +18,10 @@ A curated list of must-read Quant papers
   - Available [Here](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/research/wpaperseries/2004/04-205.pdf)
  
 - Carmona, René; Coulon, Michael (2013). [A survey of commodity markets and structural models for electricity prices.](https://link.springer.com/chapter/10.1007/978-1-4614-7248-3_2) University of Sussex. Chapter. https://hdl.handle.net/10779/uos.23397011.v1
-  - Available [Here](https://carmona.princeton.edu/sites/g/files/toruqf5466/files/documents/ElecSurvey7.pdf) 
+  - Available [Here](https://carmona.princeton.edu/sites/g/files/toruqf5466/files/documents/ElecSurvey7.pdf)
+
+
+
 
 
 ## Credit
