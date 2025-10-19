@@ -10,6 +10,8 @@ A curated list of must-read Quant papers
 
 - Gabillion, J. (1991). [The Term Structure of Oil Futures Prices.](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/WPM17-TheTermStructureofOilFuturesPrices-JGabillon-1991.pdf) Working Paper, No. M17, Oxford Institute for Energy Studies.
 
+- Hsin, CW. (1995). An empirical investigation of the two-factor Brennan-Schwartz term structure model. Rev Quant Finan Acc 5, 71–92. https://doi.org/10.1007/BF01074853
+
 - Schwartz, E.S., (1997). [The stochastic behavior of commodity prices: Implications for valuation and hedging.](https://roycheng.cn/files/papers/paper_schwartz_1997.pdf) The Journal of finance, 52(3), pp.923-973.
 
   
@@ -22,6 +24,8 @@ A curated list of must-read Quant papers
  
 - Carmona, René; Coulon, Michael (2013). [A survey of commodity markets and structural models for electricity prices.](https://link.springer.com/chapter/10.1007/978-1-4614-7248-3_2) University of Sussex. Chapter. https://hdl.handle.net/10779/uos.23397011.v1
   - Available [Here](https://carmona.princeton.edu/sites/g/files/toruqf5466/files/documents/ElecSurvey7.pdf)
+
+
 
 
 ## Credit
