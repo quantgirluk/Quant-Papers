@@ -71,7 +71,9 @@ http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
 
 - Heath, D., Jarrow, R., & Morton, A. (1990). [Bond Pricing and the Term Structure of Interest Rates: A Discrete Time Approximation.](https://doi.org/10.2307/2331009) The Journal of Financial and Quantitative Analysis, 25(4), 419–440. 
   - Available via [Research Gate](https://www.researchgate.net/publication/227356293_Bond_Pricing_and_the_Term_Structure_of_Interest_Rates_A_Discrete_Time_Approximation?__cf_chl_tk=ygY5gWBn4RZTNIuWMXI6jCEUje5Dyn9x1yXqOkbR3W0-1754853005-1.0.1.1-kKzNccgfQq4nP_ND67HF.auZUZzjjcHcByS.uDhRuns)
-  
+ 
+- Black, F., Emanuel Derman, & William Toy. (1990). A One-Factor Model of Interest Rates and Its Application to Treasury Bond Options. Financial Analysts Journal, 46(1), 33–39. http://www.jstor.org/stable/4479294
+  - Available online [Here](http://marshallinside.usc.edu/dietrich/FAJ-1990-BlackDermanToy-OneFactor.pdf)  
 
 ## Machine Learning in Finance
 
