@@ -24,9 +24,6 @@ A curated list of must-read Quant papers
   - Available [Here](https://carmona.princeton.edu/sites/g/files/toruqf5466/files/documents/ElecSurvey7.pdf)
 
 
-
-
-
 ## Credit
 
 - Merton, R. C. (1974). On the Pricing of Corporate Debt: The Risk Structure of Interest Rates. The Journal of Finance, 29(2), 449–470. https://doi.org/10.2307/2978814
@@ -72,7 +69,10 @@ http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
 - Vasicek, O. (1977) [An Equilibrium Characterization of the Term Structure.](http://dx.doi.org/10.1016/0304-405X(77)90016-2) Journal of Financial Economics, 5, 177-188.
   - Available online [Here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=20770fed49a02e9b5a3ed44160739850ba94f777)
 
-- Brennan, Michael J., and Eduardo S. Schwartz. [“An Equilibrium Model of Bond Pricing and a Test of Market Efficiency.”](http://efinance.org.cn/cn/FEshuo/170301%20%20%20%20%20An%20Equilibrium%20Model%20of%20Bond%20Pricing%20and%20a%20Test%20of%20Market%20Efficiency,%20pp.%20301-329.pdf) The Journal of Financial and Quantitative Analysis 17, no. 3 (1982): 301–29. https://doi.org/10.2307/2330832.
+- Brennan, Michael J., and Eduardo S. Schwartz. (1982) [“An Equilibrium Model of Bond Pricing and a Test of Market Efficiency.”](http://efinance.org.cn/cn/FEshuo/170301%20%20%20%20%20An%20Equilibrium%20Model%20of%20Bond%20Pricing%20and%20a%20Test%20of%20Market%20Efficiency,%20pp.%20301-329.pdf) The Journal of Financial and Quantitative Analysis 17, no. 3 (1982): 301–29. https://doi.org/10.2307/2330832.
+
+- Schaefer, Stephen M. and Schwartz, Eduardo S. (1984).  A Two-Factor Model of the Term Structure: An Approximate Analytical Solution." Journal of Financial and Quantitative Analysis, 19(4), 413-424.
+  - Available online [Here](https://www.anderson.ucla.edu/documents/areas/fac/finance/22.pdf) 
 
 - Cox, J. C., Ingersoll, J. E., & Ross, S. A. (1985). [A Theory of the Term Structure of Interest Rates.](https://doi.org/10.2307/1911242) Econometrica, 53(2), 385–407.
   - Available online [Here](https://pages.stern.nyu.edu/~dbackus/BCZ/discrete_time/CIR_Econometrica_85.pdf)
@@ -82,6 +82,10 @@ http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
  
 - Black, F., Emanuel Derman, & William Toy. (1990). A One-Factor Model of Interest Rates and Its Application to Treasury Bond Options. Financial Analysts Journal, 46(1), 33–39. http://www.jstor.org/stable/4479294
   - Available online [Here](http://marshallinside.usc.edu/dietrich/FAJ-1990-BlackDermanToy-OneFactor.pdf)  
+
+
+
+
 
 ## Machine Learning in Finance
 
