@@ -122,6 +122,7 @@ http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
 - Heston, Steven L. (1993) [A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options.](http://www.jstor.org/stable/2962057.) The Review of Financial Studies 6, no. 2 : 327–43.
   - [Here](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/Heston.pdf) 
 
+- Carr, P., Ellis, K. and Gupta, V. (1998), Static Hedging of Exotic Options. The Journal of Finance, 53: 1165-1190. https://doi.org/10.1111/0022-1082.00048
 
 - Bergomi, Lorenzo, Smile Dynamics I (April 1, 2004).
   - Available at SSRN: https://ssrn.com/abstract=1493294 or http://dx.doi.org/10.2139/ssrn.1493294
