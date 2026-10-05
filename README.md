@@ -26,6 +26,8 @@ A curated list of must-read Quant papers
   - Available [Here](https://carmona.princeton.edu/sites/g/files/toruqf5466/files/documents/ElecSurvey7.pdf)
 
 
+- Federico Aluigi, Lucia Caramellino, Paolo Pigato, Edoardo Scrima, [Pricing options on illiquid assets using liquid market benchmarks: an application to energy markets.](https://arxiv.org/abs/2607.19030)
+
 
 
 ## Credit
@@ -52,8 +54,8 @@ http://dx.doi.org/10.1111/j.1540-6261.1995.tb05167.x
 
 - Brigo, D., & Morini, M. (2005). [CDS Market Formulas and Models.](https://www.ma.imperial.ac.uk/~dbrigo/cdsmktfor.pdf) In Proceedings of the 18th Annual Warwick Options and Derivatives.
 
-
-## Foundational and Asset Pricing
+ß
+## Foundational and Asset Pricingßß
 
 - Bachelier, L. (1900) – [Théorie de la Spéculation](https://www.investmenttheory.org/uploads/3/4/8/2/34825752/emhbachelier.pdf)
   - Widely recognized as the first work to apply a mathematical model of Brownian motion (what he called "a random walk") to the fluctuations of financial asset prices.
